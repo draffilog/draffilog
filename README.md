@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 Hi there! I'm a 🎓 UK university student passionate about:<br>🚀 Blockchain technology and AI.<br><br>🔎 Currently, I'm exploring the world of 🐍 Python, 💻 C++, 🎉 Solidity, and 🌐 JavaScript.<br><br>👉 Follow me on my journey of discovery!
-
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/draffilog) 
 
